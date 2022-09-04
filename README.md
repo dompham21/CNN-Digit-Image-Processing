@@ -1,4 +1,7 @@
 # CNN-Digit-Image-Processing
+## Introduction
+This is a Convolutional Neural Network for digits recognition trained on MNIST dataset. I choosed to build it with keras API (Tensorflow backend). Firstly, I will prepare the data (handwritten digits images) then i will focus on the CNN modeling and evaluation.
+
 
 # I. Import lib
 ```
